@@ -1,1 +1,1 @@
-# exercicios_python
+# exercicios_python iniciando na programação
